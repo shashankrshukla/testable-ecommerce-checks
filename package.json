@@ -1,0 +1,21 @@
+{
+  "name": "testable-ecommerce-checks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shashankrshukla/testable-ecommerce-checks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shashankrshukla/testable-ecommerce-checks/issues"
+  },
+  "homepage": "https://github.com/shashankrshukla/testable-ecommerce-checks#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.31.1"
+  }
+}
